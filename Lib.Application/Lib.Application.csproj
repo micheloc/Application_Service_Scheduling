@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib.Domain\Lib.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AppService\Indentity\" />
+    <Folder Include="AppService\_Base\" />
+    <Folder Include="Interface\Identity\" />
+    <Folder Include="Interface\_Base\" />
+  </ItemGroup>
+
+</Project>
