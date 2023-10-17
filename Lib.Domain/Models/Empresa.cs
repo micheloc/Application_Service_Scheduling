@@ -1,4 +1,5 @@
-﻿using System.Text.Json.Serialization;
+﻿using Lib.Domain.Models.Identity;
+using System.Text.Json.Serialization;
 namespace Lib.Domain.Models;
 public class Empresa
 {
