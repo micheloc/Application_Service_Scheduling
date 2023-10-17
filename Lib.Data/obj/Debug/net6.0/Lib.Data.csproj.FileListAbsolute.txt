@@ -1,0 +1,5 @@
+C:\Repository GIT\Michel\Application_Service_Scheduling\Lib.Data\obj\Debug\net6.0\Lib.Data.csproj.AssemblyReference.cache
+C:\Repository GIT\Michel\Application_Service_Scheduling\Lib.Data\obj\Debug\net6.0\Lib.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository GIT\Michel\Application_Service_Scheduling\Lib.Data\obj\Debug\net6.0\Lib.Data.AssemblyInfoInputs.cache
+C:\Repository GIT\Michel\Application_Service_Scheduling\Lib.Data\obj\Debug\net6.0\Lib.Data.AssemblyInfo.cs
+C:\Repository GIT\Michel\Application_Service_Scheduling\Lib.Data\obj\Debug\net6.0\Lib.Data.csproj.CoreCompileInputs.cache

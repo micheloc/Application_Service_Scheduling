@@ -1,13 +1,15 @@
-﻿using FluentValidation.Results;
-using Lib.Data.Context.Interfaces;
-using Microsoft.EntityFrameworkCore;
+﻿using Lib.Data.Context.Interfaces;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore;
+using FluentValidation.Results;
+using Lib.Domain.Models.Identity;
 
 namespace Lib.Data.Context.Common;
-
-public class BaseContext : DbContext, IDbContext
+public class BaseContextIdentity : IdentityDbContext<Usuario, Roles, string>, IDbContext
 {
-    public BaseContext(DbContextOptions<DBContext> options) : base(options)
+    public BaseContextIdentity(DbContextOptions<DBIdentityContext> options)
+        : base(options)
     {
 
     }
@@ -42,7 +44,6 @@ public class BaseContext : DbContext, IDbContext
                 result.Errors.Add(new ValidationFailure(ex.InnerException.GetType().Name, ex.InnerException.Message));
             }
         }
-
         return result;
     }
 
@@ -50,5 +51,4 @@ public class BaseContext : DbContext, IDbContext
     {
         base.Dispose();
     }
-
 }
