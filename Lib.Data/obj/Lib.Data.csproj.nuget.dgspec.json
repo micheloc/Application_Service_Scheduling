@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj": {}
+    "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj": {}
   },
   "projects": {
-    "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj": {
+    "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj",
+        "projectUniqueName": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj",
         "projectName": "Lib.Data",
-        "projectPath": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj",
+        "projectPath": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Data\\Lib.Data.csproj",
         "packagesPath": "C:\\Users\\Micro-06\\.nuget\\packages\\",
-        "outputPath": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Data\\obj\\",
+        "outputPath": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj": {
-                "projectPath": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj"
+              "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj": {
+                "projectPath": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj": {
+    "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj",
+        "projectUniqueName": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj",
         "projectName": "Lib.Domain",
-        "projectPath": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj",
+        "projectPath": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Domain\\Lib.Domain.csproj",
         "packagesPath": "C:\\Users\\Micro-06\\.nuget\\packages\\",
-        "outputPath": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Domain\\obj\\",
+        "outputPath": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

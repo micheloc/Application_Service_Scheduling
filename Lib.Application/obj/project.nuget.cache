@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eBgRaaA6de+qvDhaSXojHAgPzQxZygSzBHko9GMIw4bL1uQcReglSGBN/RdXx+wjCGi3AKllQ7zDdTQNuyyx1g==",
+  "dgSpecHash": "PkyGC2yuhCCzsUYqIHBqrnAnHrDWgLbzbHKLRuJE94nyAuVYUV3ZQHweTNr2VKKQ99HFZ+nyJjhNAmn3o4NE2w==",
   "success": true,
-  "projectFilePath": "E:\\Prototipo\\Application_Service_Scheduling\\Lib.Application\\Lib.Application.csproj",
+  "projectFilePath": "C:\\Repository GIT\\Michel\\Application_Service_Scheduling\\Lib.Application\\Lib.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Micro-06\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Micro-06\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

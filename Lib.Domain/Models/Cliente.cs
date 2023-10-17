@@ -1,7 +1,5 @@
 ﻿using Lib.Domain.Models.Identity;
-
 namespace Lib.Domain.Models;
-
 public class Cliente
 {
     public Cliente()
@@ -26,8 +24,6 @@ public class Cliente
     public string Bairro { get; set; }
     public string Informacoes_Adicionais { get; set; }
     public bool Ativo { get; set; }
-
-
     public virtual ICollection<Usuario> Usuario { get; set; }
     public virtual ICollection<Cliente_Contrato> Cliente_Contratos { get; set; }
     public virtual ICollection<Equipamentos> Equipamentos { get; set; }

@@ -14,4 +14,10 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Lib.Application\Lib.Application.csproj" />
+    <ProjectReference Include="..\Lib.Data\Lib.Data.csproj" />
+    <ProjectReference Include="..\Lib.Domain\Lib.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
